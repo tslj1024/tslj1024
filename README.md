@@ -1,4 +1,3 @@
-### Hi there 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&separator=%3C&lines=System.out.println(%22Hello%2C+world!%22);%3C%E6%AC%A2%E8%BF%8E%E5%85%B3%E6%B3%A8%5B%E6%B3%B0%E4%B8%8A%E8%80%81%E8%8F%8C%5D%E7%9A%84%E9%A2%91%E9%81%93!)](https://git.io/typing-svg)
 
