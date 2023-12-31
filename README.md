@@ -2,6 +2,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
 
+<h1 align="center">
+  <a href="https://sunguoqi.com/">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);小孙同学祝您今天愉快!&center=true&size=27">
+  </a>
+</h1>
+
 <!--
 **tslj1024/tslj1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
