@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=echo%20%22Hello%2C%20World!%22;欢迎关注[TS_灵菌君]，祝您开心每一天！&center=true&size=27)](https://git.io/typing-svg)
 
-<img src="readme-typing-svg.tslj1024.svg" alt="Logo">
+<!--<img src="readme-typing-svg.tslj1024.svg" alt="Logo">-->
 <!-- 图片 -->
 
 <!-- 社交媒体 -->
@@ -16,6 +16,14 @@
 </picture>
 
 <!-- 买杯咖啡 -->
+
+<!-- 自我介绍 -->
+
+<!-- 自我介绍 -->
+
+<!-- 博客更新 -->
+
+<!-- 时间使用 -->
 
 <!--
 **tslj1024/tslj1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
