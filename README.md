@@ -7,6 +7,11 @@
 <!-- 社交媒体 -->
 
 <!-- 贪吃蛇 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tslj1024/tslj1024/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tslj1024/Ptslj1024/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/tslj1024/tslj1024/output/github-contribution-grid-snake.svg">
+</picture>
 
 <!-- 买杯咖啡 -->
 
