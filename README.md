@@ -2,9 +2,16 @@
 <!-- 动态打字 -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=535&lines=echo%20%22Hello%2C%20World!%22;欢迎关注[TS_灵菌君]，祝您开心每一天！&center=true&size=27)](https://git.io/typing-svg)
-
 <!--<img src="readme-typing-svg.tslj1024.svg" alt="Logo">-->
+
 <!-- 图片 -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+  <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/developer.svg" height="225px" />
+  <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
+</picture>
+
+<div>&nbsp;</div>
 
 <!-- 社交媒体 -->
 
