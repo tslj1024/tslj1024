@@ -14,6 +14,10 @@
 <div>&nbsp;</div>
 
 <!-- 社交媒体 -->
+<!-- B站 -->
+<a href="https://space.bilibili.com/448488855/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
+<!-- visitor -->
+<img src="https://komarev.com/ghpvc/?username=sun0225SUN&label=Views&color=orange&style=flat" alt="访问量统计" />
 
 <!-- 贪吃蛇 -->
 <picture>
