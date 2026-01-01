@@ -52,10 +52,12 @@
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
 
-<p>&emsp;&emsp;嗨，你好，我是小孙同学。热爱编程、摄影、读书、旅行。</p>
-<p>&emsp;&emsp;热爱计算机科学和 IT 互联网事业，希望能成为一名优秀的开发者。</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
-<p>&emsp;&emsp;<strong>We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
+<p>&emsp;&emsp;嗨，你好，我是TS_灵菌君。热爱编程、阅读、音乐、旅行、探索。</p>
+<p>&emsp;&emsp;热爱计算机科学和 IT 事业。</p>
+<p>&emsp;&emsp;白天写代码，夜晚读诗。</p>
+<p>&emsp;&emsp;相信代码不仅是工具，更是改变世界的语言。</p>
+<p>&emsp;&emsp;Automating the boring stuff since now. Code with purpose. Build with care.</p>
+<p>&emsp;&emsp;<strong>We write code not just to run machines — but to empower people.</strong></p>
 
 </tr></td>
 
