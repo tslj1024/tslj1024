@@ -33,20 +33,15 @@
 <!-- 买杯咖啡 -->
 </div>
 
-<!-- About Me -->
-
-<!-- Recent Blog -->
-
-<!-- Work At -->
-
 <!-- 时间使用 -->
 
-<!-- Github 数据统计 -->
 #  🙋 Hello
 
 <table>
 
 <tr><td>
+
+<!-- About Me -->
 
 ### 🤺 About Me
 
@@ -62,6 +57,8 @@
 
 <tr><td>
 
+<!-- Recent Blog -->
+
 ### 📃 Recent Blog
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
@@ -76,23 +73,22 @@
 
 </td></tr>
 
-<!-- <tr><td>
+<!-- Work At -->
 
-### 📊 WakaTime
+## 🏢 Work At
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=1f2328&bg_color=00000000&hide_border=true&hide_title=true"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sun0225SUN&layout=compact&text_color=f0f6fc&bg_color=00000000&hide_border=true&hide_title=true" />
-</picture>
+<img align="right" width="200" src="orgin.png" />
 
-</td></tr> -->
+- [浪潮](https://www.inspur.com/)   📌 2019-07 —— 2020-02
+
+  - 工作岗位：实习生
+  - 工作内容：根据项目经理的安排，参与软件开发和维护工作
+
+
+  <!-- for beauty 留个空行好看点 -->
+  <div>&nbsp;</div>
+  
+</td></tr>
 
 <tr><td>
 
@@ -146,6 +142,14 @@ Mac                      4 hrs 59 mins       ███████████�
 </td></tr>
 
 </table>
+
+<!-- Github 数据统计 -->
+
+## 📊 GitHub 数据统计
+
+<!-- metrics 基础资料 -->
+
+![Metrics](https://metrics.lecoq.io/tslj1024?template=classic&isocalendar=1&languages=1&stars=1&followup=1&people=1&achievements=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=full-year&languages=false&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&stars=false&stars.limit=4&followup=false&followup.sections=repositories&followup.indepth=false&followup.archived=true&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&achievements=false&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FShanghai)
 
 <!--
 **tslj1024/tslj1024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
