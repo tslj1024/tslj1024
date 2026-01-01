@@ -64,7 +64,7 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- BLOG-POST-LIST:START -->
-- [[No Title] - Post](https://blog.tslj.top/other/)
+- [TypeScript 速览](https://blog.tslj.top/other/)
 - [2024 年迷你主机折腾记录](https://blog.tslj.top/other/2024年迷你主机折腾记录.html)
 - [Markdown Extension Examples](https://blog.tslj.top/example/markdown-examples.html)
 - [Runtime API Examples](https://blog.tslj.top/example/api-examples.html)
