@@ -31,6 +31,7 @@
 <!-- 金牌赞助 -->
 
 <!-- 买杯咖啡 -->
+</div>
 
 <!-- About Me -->
 
@@ -159,4 +160,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-</div>
