@@ -73,13 +73,15 @@
 
 </td></tr>
 
+<tr><td>
+
 <!-- Work At -->
 
 ## 🏢 Work At
 
-<img align="right" width="200" src="orgin.png" />
+<!-- <img align="right" width="200" src="orgin.png" /> -->
 
-- [浪潮](https://www.inspur.com/)   📌 2019-07 —— 2020-02
+- [源创]()   📌 2023-03 —— 2025-04
 
   - 工作岗位：实习生
   - 工作内容：根据项目经理的安排，参与软件开发和维护工作
