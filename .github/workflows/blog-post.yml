@@ -17,5 +17,3 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://blog.tslj.top/feed.rss"
-          template: '$counter. $date - [$title]($url)<br>'
-          date_format: mmm d, yyyy
