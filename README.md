@@ -66,10 +66,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript 速览](https://blog.tslj.top/other/)
+- [Ubuntu绿色软件Dock固定指南](https://blog.tslj.top/other/Ubuntu绿色软件Dock固定指南.html)
 - [2024 年迷你主机折腾记录](https://blog.tslj.top/other/2024年迷你主机折腾记录.html)
-- [Markdown Extension Examples](https://blog.tslj.top/example/markdown-examples.html)
-- [Runtime API Examples](https://blog.tslj.top/example/api-examples.html)
+- [Ansible 进阶](https://blog.tslj.top/infra-lnx/Ansible进阶.html)
+- [Ansible 入门](https://blog.tslj.top/infra-lnx/Ansible入门.html)
+- [Ansible 目录结构](https://blog.tslj.top/infra-lnx/Ansible目录结构.html)
 <!-- BLOG-POST-LIST:END -->
 
 </td></tr>
