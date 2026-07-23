@@ -77,11 +77,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- BLOG-POST-LIST:START -->
-- [盘点使用虚拟机的几种姿势](https://blog.tslj.top/other/盘点使用虚拟机的几种姿势.html)
-- [什么是可观测性](https://blog.tslj.top/infra-obs/)
-- [JVM 问题排查思路](https://blog.tslj.top/other/JVM问题排查思路.html)
-- [Arthas 使用](https://blog.tslj.top/other/Arthas使用.html)
-- [正则表达式通用语法](https://blog.tslj.top/other/正则表达式通用语法.html)
+- [示例](https://blog.tslj.top/other/示例.html)
+- [关于](https://blog.tslj.top/about.html)
+- [友情链接](https://blog.tslj.top/friends.html)
+- [Dockerfile](https://blog.tslj.top/infra-dkr/Dockerfile.html)
+- [Swarm mode](https://blog.tslj.top/infra-dkr/Swarm.html)
 <!-- BLOG-POST-LIST:END -->
 
 </td></tr>
