@@ -77,11 +77,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- BLOG-POST-LIST:START -->
-- [示例](https://blog.tslj.top/other/示例.html)
-- [关于](https://blog.tslj.top/about.html)
-- [友情链接](https://blog.tslj.top/friends.html)
-- [Dockerfile](https://blog.tslj.top/infra-dkr/Dockerfile.html)
-- [Swarm mode](https://blog.tslj.top/infra-dkr/Swarm.html)
+- [Ansible 入门](https://blog.tslj.top/infra-auto/)
+- [Ansible 目录结构](https://blog.tslj.top/infra-auto/Ansible目录结构.html)
+- [Ansible 进阶](https://blog.tslj.top/infra-auto/Ansible进阶.html)
+- [Jenkins 快速入门](https://blog.tslj.top/infra-auto/Jenkins快速入门.html)
+- [Playbook 杂谈](https://blog.tslj.top/infra-auto/Playbook杂谈.html)
 <!-- BLOG-POST-LIST:END -->
 
 </td></tr>
