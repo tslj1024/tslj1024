@@ -77,11 +77,11 @@
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/astronaut.png" />
 
 <!-- BLOG-POST-LIST:START -->
+- [Terraform 企业级实践：CI/CD 集成与安全合规](https://blog.tslj.top/infra-auto/Terraform企业级实践.html)
+- [Terraform 入门指南：基础设施即代码（IaC）的基石](https://blog.tslj.top/infra-auto/Terraform入门指南.html)
+- [Terraform 多云实战：AWS/Azure/GCP 资源生命周期管理](https://blog.tslj.top/infra-auto/Terraform多云实战.html)
+- [Terraform 核心进阶：HCL 语法与模块化架构](https://blog.tslj.top/infra-auto/Terraform核心进阶.html)
 - [存储](https://blog.tslj.top/infra-k8s/存储.html)
-- [安全](https://blog.tslj.top/infra-k8s/安全.html)
-- [扩展](https://blog.tslj.top/infra-k8s/扩展.html)
-- [核心](https://blog.tslj.top/infra-k8s/核心.html)
-- [入门](https://blog.tslj.top/infra-k8s/)
 <!-- BLOG-POST-LIST:END -->
 
 </td></tr>
